@@ -1,0 +1,7 @@
+
+tests/
+views/site/
+assets/AppAsset.php
+web/.htaccess
+web/css/
+web/favicon.ico
